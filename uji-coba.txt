@@ -2,4 +2,6 @@ ini hanyalah sebuah uji coba
 tidak usah di perhatikan!
 coba edit
 ini hanya mencoba mengedit file
+coba fitur 2
 coba fitur 1 jadi 2 commit
+
